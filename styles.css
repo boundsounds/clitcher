@@ -1,0 +1,13 @@
+h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  }
+  
